@@ -19,6 +19,6 @@
 8. Cuped
 9. Stratification
 10. Multiple testing
-11. Graph splitting
+11. Traffic splitting
 12. Analysis of ratio metrics
 13. Complete A/B testing pipeline
